@@ -1,0 +1,82 @@
+nav a{
+    text-decoration: none;
+}
+ul a{
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+}
+.all{
+    background-color: orange;
+    position: relative;
+    bottom: 30px;
+    border: 1px solid orange;
+    height: 100px;
+}
+.weanime{
+    position: relative;
+    top: 20px;
+    padding-left: 30px;
+    font-family: cursive;
+}
+.anime{
+    position: relative;
+    bottom: 30px;
+    width: 1333px;
+}
+.nava{
+    position: relative;
+    right: 200px;
+    top: 20px;
+    font-size: 17px;
+}
+.search{
+    float: right;
+    position: relative;
+    bottom: 80px;
+    right: 50px;
+}
+.put{
+    height: 50px;
+    border: 1px solid white;
+    position: relative;
+    right: 20px;
+    border-radius: 10px;
+}
+:placeholder-shown{
+    padding-left: 30px;
+    font-size: 15px;
+}
+.sea{
+    height: 54px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+}
+.card{
+    background-color: orange;
+    height: 200px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 70px;
+}
+.gen{
+    font-size: 50px;
+    margin-left: 50px;
+    position: relative;
+    top: 30px;
+}
+.lorem{
+    margin-left: 50px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: orange;
+    cursor: pointer;
+    border: 1px solid black;
+}
+spy.html

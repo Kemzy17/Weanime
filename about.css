@@ -1,0 +1,322 @@
+
+
+html{
+    scroll-behavior: smooth;
+}
+.weanime{
+    font-family: cursive;
+    font-size: 40px;
+    color: orange;
+    position: relative;
+    top: 50px;
+    padding: 50px;
+}
+ul a{
+    padding: 20px;
+    float: right;
+    position: relative;
+    right: 350px;
+    bottom: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+}
+ul a:hover{
+    background-color: aqua;
+}
+.top{
+    background-color: black;
+    height: 200px;
+    position: relative;
+    bottom: 20px;
+}
+.a{
+    text-decoration: none;
+}
+.watch{
+    text-align: center;
+}
+.put{
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.sea{
+    width: 100px;
+    height: 55px;
+
+}
+.search{
+    text-align: center;
+}
+/* :placeholder-shown{
+    font-size: 20px;
+    padding-left: 50px;
+} */
+input[type="search"] {
+    padding-left: 20px;
+}
+.ico{
+    height: 30px;
+    width: 30px;
+}
+button{
+    position: relative;
+    top: 7px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+.go{
+    background-color: orange;
+    text-align: center;
+    position: absolute;
+    top: 380px;
+    left: 570px;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+}
+.back{
+    font-size: 20px;
+}
+.first{
+    margin-left: 50px;
+    position: absolute;
+    top: 500px;
+    color: white;
+}
+.second{
+    margin-left: 50px;
+    position: absolute;
+    top: 540px;
+}
+.storyone{
+    background-color: black;
+}
+.third{
+    margin-left: 50px;
+    position: absolute;
+    top: 670px;
+    color: aliceblue;
+}
+.fourth{
+    margin-left: 50px;
+    position: absolute;
+    top: 710px;
+}
+.fifth{
+    margin-left: 50px;
+    position: absolute;
+    top: 850px;
+    color: aliceblue;
+}
+.sixth{
+    margin-left: 50px;
+    position: absolute;
+    top: 890px;
+}
+.seventh{
+    margin-left: 50px;
+    position: absolute;
+    top: 1030px;
+    color: aliceblue;
+}
+.eight{
+    margin-left: 50px;
+    position: absolute;
+    top: 1070px;
+}
+.ninth{
+    margin-left: 50px;
+    position: absolute;
+    top: 1160px;
+    color: aliceblue;
+}
+.tenth{
+    margin-left: 50px;
+    position: absolute;
+    top: 1200px;    
+}
+.eleventh{
+    margin-left: 50px;
+    position: absolute;
+    top: 1300px;    
+    color: aliceblue;
+}
+.twelve{
+    margin-left: 50px;
+    position: absolute;
+    top: 1340px;
+}
+.thirteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1410px;
+    color: aliceblue;
+}
+.fourteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1450px;    
+}
+.fifteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1520px;
+    color: aliceblue;
+}
+.sixteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1560px;
+}
+.listitems{
+    margin-left: 50px;
+    position: absolute;
+    top: 1670px;
+}
+.seventeen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1920px;
+    color: aliceblue;
+}
+.eighteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 1960px;
+}
+.nineteen{
+    margin-left: 50px;
+    position: absolute;
+    top: 2020px;
+    color: aliceblue;
+}
+.twenty{
+    margin-left: 50px;
+    position: absolute;
+    top: 2060px;
+}
+.twentyone{
+    margin-left: 50px;
+    position: absolute;
+    top: 2130px;
+}
+.link{
+    color: orange;
+}
+.twentytwo{
+    margin-left: 50px;
+    position: absolute;
+    top: 2150px;
+}
+.twentythree{
+    margin-left: 50px;
+    position: absolute;
+    top: 2200px;
+    color: aliceblue;
+}
+.twentyfour{
+    margin-left: 50px;
+    position: absolute;
+    top: 2240px;
+}
+li{
+    line-height: 18px;
+}
+.twentyfive{
+    margin-left: 50px;
+    position: absolute;
+    top: 2280px;
+    color: aliceblue;
+}
+.twentysix{
+    margin-left: 50px;
+    position: absolute;
+    top: 2320px;
+}
+footer{
+    position: relative;
+    top: 2150px;
+}
+#myBtn {
+    height: 70px;
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    top: 600px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: 1px solid red; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: transparent; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
+
+/* nav a{
+    text-decoration: none;
+}
+ul a{
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+}
+.all{
+    background-color: orange;
+    position: relative;
+    bottom: 30px;
+    border: 1px solid orange;
+    height: 100px;
+}
+.weanime{
+    position: relative;
+    top: 20px;
+    padding-left: 30px;
+    font-family: cursive;
+}
+.anime{
+    position: relative;
+    bottom: 30px;
+    width: 1333px;
+}
+.nava{
+    position: relative;
+    right: 200px;
+    top: 10px;
+}
+.search{
+    float: right;
+    position: relative;
+    bottom: 80px;
+    right: 50px;
+}
+.put{
+    height: 50px;
+    border: 1px solid white;
+}
+.sea{
+    height: 54px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+}
+.titl{
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+.story{
+    position: absolute;
+} */

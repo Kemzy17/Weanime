@@ -1,0 +1,96 @@
+body{
+    background-image: url(1134110.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul a{
+    text-decoration: none;
+    padding: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 30px;
+    color: white;
+}
+a:hover{
+    color: white !important;
+    background-color: rgb(58, 36, 180);
+    transition: 0.5s;
+}
+.all{
+    background-color: orange;
+    position: relative;
+    bottom: 30px;
+    border: 1px solid orange;
+    height: 100px;
+}
+.weanime{
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+    
+    font-family: cursive;
+}
+.anime{
+    position: relative;
+    bottom: 30px;
+    width: 1333px;
+}
+/* .card{
+    background-color: transparent;
+    color:white;
+    position: relative;
+    top: 160px;
+    left: 200px;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    text-align: justify;
+} */
+
+.story{
+    width: 600px;
+    height: 300px;
+    color: white;
+    position: relative;
+    top: 160px;
+    left: 200px;
+
+
+}
+.buton{
+    cursor: pointer;
+    border: 1px solid purple;
+    height: 70px;
+    width: 200px;
+    background-color: purple;
+    color: aliceblue; 
+    position: absolute;
+    left: 950px;
+    bottom: 300px;
+    border-radius: 20px;   
+}
+.buton:hover{
+    transform: scale(1.1, 1.1);
+    transition: 0.3s;
+}
+.already{
+    color: white;
+    position: absolute;
+    left: 900px;
+    bottom: 250px;
+}
+.log{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    left: 1100px;
+    bottom: 260px;
+    cursor: pointer;
+}
+.log:hover{
+    transform: scale(1.1, 1.1);
+    transition: 0.3s;
+}

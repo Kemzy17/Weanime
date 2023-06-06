@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(22, 22, 22);
+}
+.card1{
+    background-color: orange;
+    border: 1px solid orange;
+    color: aliceblue;   
+}
+.epione{
+    position: relative;
+    top: 10px;
+    height: 500px;
+    width: 840px;
+}
+.ad{
+    background-color: orange;
+    color: aliceblue;
+}
+.info{
+    line-height: 10px;
+    color: aliceblue;
+}
+.download{
+    position: relative;
+    bottom: 35px;
+    background-color: orange;
+    border: 1px solid orange;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: aliceblue;
+    cursor: pointer;
+}
+.next{
+    background-color: orange;
+    border: 1px solid orange;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    position: relative;
+    left: 740px;
+    top: 15px;
+    color: aliceblue;
+    cursor: pointer;
+}
+.card2{
+    width: 860px;
+}
+.sers{
+    float: right;
+    position: relative;
+    bottom: 40px;
+    background-color: orange;
+    border: 7px solid orange;
+    width: 130px;
+    color: aliceblue;
+    cursor: pointer;
+}
+.serv{
+    border-bottom: 1px solid orange;
+    color: aliceblue;
+}
+.allser{
+    line-height: 10px;
+    color: aliceblue;
+}
+.epilist{
+    text-decoration: none;
+    color: aliceblue;
+}
+.ad{
+    background-color: orange;
+    width: 400px;
+}
+button:hover{
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+.h{
+    border: 1px solid orange;
+    height: 300px;
+    width: 398px;
+    position: relative;
+    bottom: 20px;
+}
+.card3{
+    float: right;
+    cursor: progress;
+}
+.rec{
+    margin-left: 20px;
+    color: aliceblue;
+}
+.card4{
+    float: right;
+    position: absolute;
+    left: 1000px;
+}
+.text{
+    color: aliceblue;
+}
+li a{
+    text-decoration: none;
+    list-style: none;
+    color: orange;
+}
+li a:hover{
+    padding: 20px;
+    transition: 0.4s;
+}
+footer{
+    text-align: center;
+    background-color: orange;
+    color: aliceblue;
+}

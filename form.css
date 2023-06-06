@@ -1,0 +1,128 @@
+body{
+    background-image: url(1124792.jpg);
+    background-size: cover;
+    
+}
+form{
+    background-color: transparent;
+    height: 500px;
+    width: 400px;
+    padding: 50px;
+    position: relative;
+    left: 450px;
+    top: 50px;
+}
+.reg{
+    color: purple;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+.avatar{
+    position: relative;
+    bottom: 100px;
+    left: 130px;
+}
+.first{
+    position: relative;
+    bottom: 75px;
+    left: px;
+}
+.put1{
+    position: relative;
+    left: 68px;
+    bottom: 75px;
+    
+}
+/* .last{
+    position: relative;
+    top: 15px;   
+}
+.put2{
+    position: relative;
+    top: 15px;
+    left: 100px;
+} */
+.e{
+    position: relative;
+    bottom: 60px;
+}
+.put3{
+    position: relative;
+    bottom: 60px;
+    left: 118px;
+}
+.pass{
+    position: relative;
+    bottom: 45px;
+}
+.put4{
+    position: relative;
+    bottom: 45px;
+    left: 97px;
+}
+.con{
+    position: relative;
+    bottom: 30px;
+}
+.put5{
+    position: relative;
+    bottom: 30px;
+    left: 22px; 
+}
+/* .phone{
+    position: relative;
+    bottom: 35px;
+}
+.put6{
+    position: relative;
+    bottom: 35px;
+    left: 38px;
+} */
+.gender{
+    position: relative;
+    bottom: 15px;
+}
+.put7{
+    position: relative;
+    bottom: 15px;
+    left: 114px;
+}
+/* .add{
+    position: relative;
+    top: 105px;
+}
+.put8{
+    position: relative;
+    top: 105px;
+    left: 123px;
+} */
+/* label{
+    position: relative;
+    top: 95px;
+}
+textarea{
+    height: 40px;
+    width: 220px;
+    position: relative;
+    top: 100px;
+    left: 122px;
+}
+.check{
+    position: relative;
+    top: 110px;
+} */
+.button{
+    border: 1px solid purple;
+    border-radius: 5px;
+    position: relative;
+    bottom: 120px;
+    left: 600px;
+    height: 40px;
+    width: 200px;
+    background-color: purple;
+}
+h{
+    color: black;
+    font-size: larger;
+}

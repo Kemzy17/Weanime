@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+}
+.card{
+    padding-top: 100px;
+    border: 1px solid white;
+    width: 500px;
+    position: absolute;
+    left: 450px;
+    height: 570px;
+    background-color: black;
+}
+.text{
+    line-height: 10px;
+    color: orange;
+}
+.texxt{
+    margin-left: 50px;   
+}
+button{
+    line-height: 0px;
+    height: 50px;
+    font-size: 10px;
+    width: 100px;
+    color: orange;
+    background-color: black;
+    border: 1px solid white;
+    cursor: pointer;
+}   
+.first{
+    text-align: center;
+}
+button:hover{
+    background-color: orangered;
+    padding: 10px;
+}
+.second{
+    text-align: center;
+    margin-top: 20px;
+}
+footer{
+    color: orange;
+    position: relative;
+    top: 300px;
+    text-align: center;
+}
+.third{
+    font-size: medium;
+}
